@@ -46,6 +46,28 @@ body {
   font-size: 22px;
 }
 
+.divider {
+  width: 80%;
+  height: 1px;
+  background: rgba(255, 255, 255, 0.4);
+  margin: 30px auto;
+}
+
+.comment {
+  width: 100%;
+  max-width: 800px;
+  padding: 0 30px;
+  text-align: center;
+}
+
+.comment p {
+  margin: 0;
+  font-size: 22px;
+  line-height: 1.6;
+  text-align: center;
+  word-break: keep-all;
+}
+
 .tab-menu {
   position: fixed;
   bottom: 20px;
