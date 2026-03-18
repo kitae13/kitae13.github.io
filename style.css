@@ -48,8 +48,8 @@ body {
 
 .divider {
   width: 80%;
-  height: 1px;
-  background: rgba(255, 255, 255, 0.4);
+  height: 2px;
+  background: rgba(255, 255, 255, 0.8);
   margin: 30px auto;
 }
 
